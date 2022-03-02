@@ -45,7 +45,7 @@
     "lint-staged": "^11.0.0",
     "next-compose-plugins": "^2.2.1",
     "next-svgr": "^0.0.2",
-    "next-transpile-modules": "^8.0.0",
+    "next-transpile-modules": "^9.0.0",
     "prettier": "^2.3.0",
     "sass": "^1.35.1",
     "stylelint": "^13.13.1",
